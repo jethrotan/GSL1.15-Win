@@ -1,3 +1,10 @@
+GSL - MSVC 10
+=============
+
+This is MSVC10 Compiled GSL 1.15. The visual studio project file is under build.vc.
+Code in GSL incompatible with MSVC has been replaced.
+
+
 GSL - GNU Scientific Library
 ============================
 
